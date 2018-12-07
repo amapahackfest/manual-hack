@@ -1,4 +1,4 @@
-# Bases de dados
+# Bases de dados \o/
 
 ### Informações de acesso
 Alguns dados serão disponibilizados em uma pasta compartilhada.
